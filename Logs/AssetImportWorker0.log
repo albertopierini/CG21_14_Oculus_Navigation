@@ -1,0 +1,219 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/albertopierini/unity_projects/final_oculus_project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59199
+Successfully changed project path to: /Users/albertopierini/unity_projects/final_oculus_project
+/Users/albertopierini/unity_projects/final_oculus_project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 42.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/albertopierini/unity_projects/final_oculus_project/Assets
+GfxDevice: creating device client; threaded=0
+2021-06-25 16:41:36.856 Unity[16941:454394] LG HDR 4K preferred device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2021-06-25 16:41:36.856 Unity[16941:454394] Metal devices available: 1
+2021-06-25 16:41:36.856 Unity[16941:454394] 0: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2021-06-25 16:41:36.856 Unity[16941:454394] Using device Intel(R) Iris(TM) Plus Graphics 655 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 655
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56941
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002453 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 40.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.020 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007685 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 35.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2021-06-25 16:41:47.506 Unity[16941:454394] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+2021-06-25 16:41:47.537 Unity[16941:454394] CAMetalLayer ignoring invalid setDrawableSize width=0.000000 height=0.000000
+Mono: successfully reloaded assembly
+- Completed reload, in  1.441 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1633 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.8 MB.
+System memory in use after: 150.5 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2116.
+Total: 3.883157 ms (FindLiveObjects: 0.235588 ms CreateObjectMapping: 0.125335 ms MarkObjects: 3.058941 ms  DeleteObjects: 0.462120 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/PointCloud/scandy-pro-2021-06-17-t15-03-03-293-z-m 1.ply
+  artifactKey: Guid(78d2f922dce1b4556855f00ed6e64c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PointCloud/scandy-pro-2021-06-17-t15-03-03-293-z-m 1.ply using Guid(78d2f922dce1b4556855f00ed6e64c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+ -> (artifact id: '8547a8ad58dd62495d983d3674849004') in 1.133215 seconds
+  Import took 1.137308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/PointCloud/scandy-pro-2021-06-17-t15-03-03-293-z-m.ply
+  artifactKey: Guid(470570a2592214f2293e78b012f43634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PointCloud/scandy-pro-2021-06-17-t15-03-03-293-z-m.ply using Guid(470570a2592214f2293e78b012f43634) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+ -> (artifact id: 'a851287525b53eb8abcea48932649c4e') in 0.076844 seconds
+  Import took 0.079954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/PointCloud/scandy-pro-2021-05-27-t15-00-53-136-z-m 1.ply
+  artifactKey: Guid(2161e702ce0df49708f95b64d931a265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PointCloud/scandy-pro-2021-05-27-t15-00-53-136-z-m 1.ply using Guid(2161e702ce0df49708f95b64d931a265) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+ -> (artifact id: '0d7c0076fb225ddb1f31c970c22903b1') in 0.044418 seconds
+  Import took 0.047775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/PointCloud/EveryPoint_20201210_200712_dining_area.ply
+  artifactKey: Guid(63d0484e9e4b040fe87b6e5d7ea3dd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PointCloud/EveryPoint_20201210_200712_dining_area.ply using Guid(63d0484e9e4b040fe87b6e5d7ea3dd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+ -> (artifact id: '767f69a8693d38deab0e28b5b39be46c') in 0.227914 seconds
+  Import took 0.238814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/PointCloud/hintze-hall-lo 1.ply
+  artifactKey: Guid(2e143ff57f1d941bfadf697c0ce9dc00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PointCloud/hintze-hall-lo 1.ply using Guid(2e143ff57f1d941bfadf697c0ce9dc00) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+ -> (artifact id: 'c431d02319821d77bee12671c03b5b80') in 0.195583 seconds
+  Import took 0.208768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/PointCloud/scandy-pro-2021-06-24-t15-12-05-841-z-m.ply
+  artifactKey: Guid(8ba615181d0374c3292fde7e3bf6e271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PointCloud/scandy-pro-2021-06-24-t15-12-05-841-z-m.ply using Guid(8ba615181d0374c3292fde7e3bf6e271) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+ -> (artifact id: 'cc08cbf2125cb52f03b9e90013fdaef7') in 0.050293 seconds
+  Import took 0.053686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/PointCloud/scandy-pro-2021-06-24-t15-12-05-841-z-m 1.ply
+  artifactKey: Guid(960db5bd0a7774fc5bf95b265e6647a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PointCloud/scandy-pro-2021-06-24-t15-12-05-841-z-m 1.ply using Guid(960db5bd0a7774fc5bf95b265e6647a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+ -> (artifact id: '1b9ad312473d2e8246bf29bf12fb01a2') in 0.055864 seconds
+  Import took 0.058940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/PointCloud/compactedfiltered2.ply
+  artifactKey: Guid(c840c0d824a594ba585d207ede0363fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PointCloud/compactedfiltered2.ply using Guid(c840c0d824a594ba585d207ede0363fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a527bdb58544108e1d25485315b8aaa') in 0.183381 seconds
+  Import took 0.198413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/PointCloud/scandy-pro-2021-05-27-t15-00-53-136-z-m.ply
+  artifactKey: Guid(5f16cd84a302c4e9cb6a71824d752bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PointCloud/scandy-pro-2021-05-27-t15-00-53-136-z-m.ply using Guid(5f16cd84a302c4e9cb6a71824d752bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+ -> (artifact id: '9b4469d213bc1c6c1d21ad0b24482488') in 0.055102 seconds
+  Import took 0.058530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/PointCloud/scandy-pro-2021-05-21-t09-11-13-135-z-m.ply
+  artifactKey: Guid(9085bebee2b614e09a20f448b0db4f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PointCloud/scandy-pro-2021-05-21-t09-11-13-135-z-m.ply using Guid(9085bebee2b614e09a20f448b0db4f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+ -> (artifact id: 'b0dff63a0ec6e55dd99ab2e001dcfe69') in 0.075337 seconds
+  Import took 0.078908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/PointCloud/Appendix_4 1.ply
+  artifactKey: Guid(6a308afbeb09d4eb494c001ecfd36f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PointCloud/Appendix_4 1.ply using Guid(6a308afbeb09d4eb494c001ecfd36f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+ -> (artifact id: '15a85a0ace43546a9bfc7e3fe01e6da9') in 0.042054 seconds
+  Import took 0.045704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/PointCloud/Appendix_4.ply
+  artifactKey: Guid(3e1925e4adb764a25ae68e5c934a9756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PointCloud/Appendix_4.ply using Guid(3e1925e4adb764a25ae68e5c934a9756) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+ -> (artifact id: '4bde597ba6b3b64a7e137956e29c0217') in 0.063568 seconds
+  Import took 0.066368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/PointCloud/hintze-hall-lo.ply
+  artifactKey: Guid(02886238e37c249bcb3edea04cca46f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PointCloud/hintze-hall-lo.ply using Guid(02886238e37c249bcb3edea04cca46f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+Drawing with MeshTopology.Points, yet the vertex program 'Standard' does not have PSIZE output.
+
+ -> (artifact id: 'ca996a9233bdac8f7fd5008a518d0fae') in 0.239977 seconds
+  Import took 0.249810 seconds .
+
